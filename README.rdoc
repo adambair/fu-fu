@@ -1,3 +1,11 @@
+= PROJECT MOVED / RENAMED
+
+I've moved this project under the Intridea Github account.
+
+Fu-fu has been renamed to Profanity Filter and is now a gem.
+
+Please see http://github.com/intridea/profanity_filter for more information.
+
 = Fu-fu: The Profanity Filter for Rails
 
 This plugin will allow you to filter profanity using basic replacement or a dictionary term.  
